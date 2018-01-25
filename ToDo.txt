@@ -1,0 +1,10 @@
+Current Folder:
+test2.1
+
+TO DO:
+
+Make it so you can add external links to your HTML files.
+Fix the CSS so it auctaully changes the text color.
+Add to the CSS so you can change the background color.
+Add to the CSS so you can do individual styling elements.
+Concider going through MAIN.pu and cleaning up the user interface controll and move some of the definitions to another file.

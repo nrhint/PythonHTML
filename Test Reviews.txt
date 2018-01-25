@@ -1,0 +1,19 @@
+Version/Test history:
+---------------------------------------------------------------------------
+File: test0.01
+Testing: The title bar of the web page.
+
+Passed: Yes
+---------------------------------------------------------------------------
+File: test0.02
+Testing: The page title, and the main body
+
+Passed: No:
+The text didnt display.  There might be a probolem with the main body as you cant push enter in the programm to create new lines.
+---------------------------------------------------------------------------
+File: test0.03
+Testing: The page title, and the main body. added the command to close the file to make sure that everythong is written to it.
+
+Passed: Yes:
+The page will not display the text as one big long line unless you push and hold a key.
+---------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+Version/Test history:  add the CSS style sheets.
+---------------------------------------------------------------------------
+File: HTMLTest01
+Testing: The css maker for functionality
+Goal: Make a new CSS Sheet
+
+Error, Tried to append a file that didnt exist when I told ot to create a New cdd sheet.  Sulution to change the 'a' to 'x'
+
+Passed: NO
+---------------------------------------------------------------------------
+File: HTMLTest02
+Testing:  The css maker for functionality
+Goal: Make a new CSS Sheet
+
+Error:  Line 9, The same as above.  The error was that I was using x to represent the filename and the open command thought that it was for opening the file.
+
+Passed: NO
+---------------------------------------------------------------------------
+File: HTMLTest03
+Testing: The css maker for functionality
+Goal: Make a new CSS Sheet
+
+Error:  Line 15, I mispelled input for the choice.
+
+Passed: 
+---------------------------------------------------------------------------
+File: HTMLTest04
+Testing: The css maker for functionality
+Goal: Make a new CSS Sheet
+
+Passed: Yes, though the CSS sheet didnt change the color of the text.
+---------------------------------------------------------------------------
+File: HTMLTest05
+Testing: The Internal link system
+
+Passed: Ne Errors only that the file must be on the computer.  Will work on external links later.
+---------------------------------------------------------------------------
+File: 
+Testing: 
+
+Passed: 
+---------------------------------------------------------------------------
+File: 
+Testing: 
+
+Passed: 
+---------------------------------------------------------------------------
+File: 
+Testing: 
+
+Passed: 
+---------------------------------------------------------------------------
