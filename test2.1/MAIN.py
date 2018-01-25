@@ -25,12 +25,15 @@ if CssX == 'y':
         
 ##opening HTML tag
 openFile.write("<html>")
-##opening head tag
-openFile.write(" <head>")
-titleBar = input("What will the title bar display?  ")
-openFile.write(titleBar)
-##closing head tag
-openFile.write(" </head>")
+
+###!!!NOT WORKING!!!###
+
+####opening head tag
+##openFile.write(" <head>")
+##titleBar = input("What will the title bar display?  ")
+##openFile.write(titleBar)
+####closing head tag
+##openFile.write(" </head>")
 ##opening body tag
 openFile.write(" <body>")
 

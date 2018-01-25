@@ -24,7 +24,7 @@ body {
             HTMLFile = open(filename, 'a')
             HTMLFile.write("""
     <link rel="stylesheet" href="""+str(CssFile)+"""">
-"""
+""")
     CssFile.close()
             
 def link():

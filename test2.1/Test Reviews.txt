@@ -11,18 +11,22 @@ Passed:
 File: HTMLTest02
 Testing: The CSS text color.
 
+No error
 
-
-Passed: 
+Passed: Fail
 ---------------------------------------------------------------------------
-File: 
-Testing: 
+File: HTMLTest03
+Testing: CSS color
 
-Passed: 
+Error in CssMaker.py file, line 28
+Forgot a close parren
+
+Passed: Fail
 ---------------------------------------------------------------------------
+File: HTMLTest04
+Testing: Css color
 
-File: 
-Testing: 
+The code is working but I forogot to link the sheet.
 
 Passed: 
 ---------------------------------------------------------------------------
